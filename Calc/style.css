@@ -1,0 +1,43 @@
+
+body {
+     background-image: url(https://wallpapercave.com/wp/wp8375092.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+    }
+
+
+
+#tip-form{
+    background-color: rgba(226, 132, 148, 0.289);
+  
+    border-radius: 50px 20px;
+    padding: 20px;
+   
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+marquee {
+    font-family: 'Krona One', sans-serif;
+    background-color: rgba(255, 255, 255, 0.479);
+    
+}
+
+h1{
+     font-family: 'Rouge Script', cursive;
+     font-size: 80px;
+     background-color: rgba(226, 132, 148, 0.297);
+     border-radius: 20px 50px;
+     padding: 20px;
+}
+
+.form-group {
+    background-color: rgba(255, 255, 255, 0.078);
+   
+}
+
